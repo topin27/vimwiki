@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=%encoding%">
 </head>
 <body>
-<h1 style="text-align:center">%title%<h1>
+<h1 style="text-align:center">%title%</h1>
 %content%
 </body>
 </html>
